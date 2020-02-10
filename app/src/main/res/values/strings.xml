@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OscarNight</string>
+    <string name="radio_button_best_picture">Best Picture</string>
+    <string name="radio_button_best_actor">Best Actor</string>
+    <string name="radio_button_best_actress">Best Actress</string>
+    <string name="radio_button_film_editing">Film Editing</string>
+    <string name="radio_button_visual_effects">Visual Effects</string>
+
+    <string name="mainmenu_preferences">Preferences</string>
+    <string name="mainmenu_view_reviews">View Reviews</string>
+
+    <string name="prefs_url">URL</string>
+    <string name="prefs_login_name">Login Name</string>
+    <string name="prefs_password">Password</string>
+    <string name="prefs_background_color">Background Color</string>
+
+    <string name="user_name">#</string>
+    <string name="user_password">#</string>
+
+    <string name="user_review">#</string>
+    <string name="user_nominee">#</string>
+    <string name="user_category">#</string>
+    
+</resources>
